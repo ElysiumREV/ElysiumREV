@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justo</h1>
-<h3 align="center">A programming student from Brazil</h3>
+<h3 align="center">A computer science student from Brazil</h3>
 
 <p align="center">- 🌱 My area is Web development </p>
 
