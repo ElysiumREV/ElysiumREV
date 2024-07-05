@@ -7,7 +7,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/justo24/">
+  <a href="https://www.linkedin.com/in/ElysiumREV/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
@@ -19,10 +19,10 @@
   </a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justo24&column=-1&theme=gruvbox" alt="justo24" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ElysiumREV&column=-1&theme=gruvbox" alt="ElysiumREV" /></a> </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=justo24&theme=gruvbox&show_icons=true&locale=en&layout=compact" alt="justo24" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElysiumREV&theme=gruvbox&show_icons=true&locale=en&layout=compact" alt="ElysiumREV" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=justo24&show_icons=true&locale=en&theme=gruvbox" alt="justo24" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ElysiumREV&show_icons=true&locale=en&theme=gruvbox" alt="ElysiumREV" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=justo24&&theme=gruvbox" alt="justo24" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ElysiumREV&&theme=gruvbox" alt="ElysiumREV" /></p>
