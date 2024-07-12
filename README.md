@@ -1,28 +1,39 @@
-<h1 align="center">Hi 👋, I'm Justo</h1>
-<h3 align="center">A computer science student from Brazil</h3>
+<h2 align="left">Hi 👋! My name is Justo and I'm a computer science student, from Brazil</h2>
 
-<p align="center">- 🌱 My area is Web development </p>
+###
 
-<p align="center">- 📫 You can reach me by my e-mail: justomelone@gmail.com </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElysiumREV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ElysiumREV&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElysiumREV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ElysiumREV/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/elysium.rev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,git,github,js,ts,nodejs,python,bash,cs" />
+  <a href="https://www.linkedin.com/in/elysiumrev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</p>
+  <a href="justomelone@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ElysiumREV&column=-1&theme=gruvbox" alt="ElysiumREV" /></a> </p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElysiumREV&theme=gruvbox&show_icons=true&locale=en&layout=compact" alt="ElysiumREV" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ElysiumREV&show_icons=true&locale=en&theme=gruvbox" alt="ElysiumREV" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ElysiumREV&&theme=gruvbox" alt="ElysiumREV" /></p>
+###
